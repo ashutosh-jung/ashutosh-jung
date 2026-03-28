@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ashutosh Jung Thapa aspiring Full-stack Developer. Having Good knowledge of Javascript. 
+I am Ashutosh Jung Thapa, a Full-stack Developer. Having Good knowledge of Javascript. 
 
 
 ## 🌐 Socials:
